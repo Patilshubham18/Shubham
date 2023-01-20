@@ -6,4 +6,4 @@ public class EIGHT {//class body open
 		System.out.println("how r u");
 	}//main method body close
 
-}//class body close
+}//class body 
